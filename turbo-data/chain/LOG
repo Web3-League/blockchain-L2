@@ -1,0 +1,18 @@
+=============== Dec 31, 2025 (CET) ===============
+00:52:35.112061 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:52:35.124033 db@open opening
+00:52:35.125108 version@stat F·[] S·0B[] Sc·[]
+00:52:35.130135 db@janitor F·2 G·0
+00:52:35.130135 db@open done T·6.1022ms
+=============== Dec 31, 2025 (CET) ===============
+00:53:40.634471 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:53:40.635774 version@stat F·[] S·0B[] Sc·[]
+00:53:40.636281 db@open opening
+00:53:40.636646 journal@recovery F·1
+00:53:40.636646 journal@recovery recovering @1
+00:53:40.649733 memdb@flush created L0@2 N·3 S·500B "block:0,v2":"cur..ock,v3"
+00:53:40.651554 version@stat F·[1] S·500B[500B] Sc·[0.25]
+00:53:40.669646 db@janitor F·3 G·0
+00:53:40.669646 db@open done T·33.3655ms
+01:04:46.990599 db@close closing
+01:04:46.991107 db@close done T·507.1µs

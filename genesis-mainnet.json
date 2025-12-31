@@ -1,0 +1,14 @@
+{
+  "config": {
+    "chainId": 77702,
+    "l1ChainId": 7770,
+    "l1Rpc": "http://51.68.125.99:8545",
+    "blockTime": 2
+  },
+  "gasLimit": 30000000,
+  "alloc": {
+    "0xFD6042df3D74ce9959922FeC559d7995F3933c55": {
+      "balance": "100000000000000000000000000"
+    }
+  }
+}

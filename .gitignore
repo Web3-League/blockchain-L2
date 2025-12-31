@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Hardhat
+cache/
+artifacts/
+typechain-types/
+
+# Build
+build/
+
+# Environment (NEVER commit!)
+.env
+
+# Keystore (NEVER commit!)
+keystore/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Coverage
+coverage/
+coverage.json
